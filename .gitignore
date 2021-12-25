@@ -9,4 +9,4 @@ common/
 .vscode/
 *.ini
 
-.openpublishing.buildcore.ps1
+"/shutdown L"
